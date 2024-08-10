@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "paper": "^0.12.18",
+    "simplex-noise": "^4.0.3",
     "tweakpane": "^4.0.4"
   }
 }
